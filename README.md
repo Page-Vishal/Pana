@@ -5,6 +5,6 @@ You don’t write a book — it writes you into it, gradually, invisibly.
 
 Your actions shape the story, but the story shapes your actions.
 
-| Test | - **getQuery** – Gets user's response 
+| Test | - **getQuery** – Gets user's response <br />
 - **chatInput** – Form input required for the next component |
 |:----------------------------------------------------:|:-------------------------------------------------------------|
